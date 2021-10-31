@@ -1,0 +1,6 @@
+F:\интегрированные системы\L02\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+F:\интегрированные системы\L02\ConsoleClient\bin\Debug\ConsoleClient.exe
+F:\интегрированные системы\L02\ConsoleClient\bin\Debug\ConsoleClient.pdb
+F:\интегрированные системы\L02\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+F:\интегрированные системы\L02\ConsoleClient\obj\Debug\ConsoleClient.exe
+F:\интегрированные системы\L02\ConsoleClient\obj\Debug\ConsoleClient.pdb
